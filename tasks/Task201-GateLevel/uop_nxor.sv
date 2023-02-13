@@ -1,3 +1,4 @@
+//My copy
 module uop_nxor(output wire Y, input wire A, input wire B);
 
 //Internal wires
